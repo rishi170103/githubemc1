@@ -3,4 +3,5 @@ body{
 }
 .image{
     border-radius: 50;
+    size-adjust: inherit;
 }
