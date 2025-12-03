@@ -2,6 +2,9 @@ body{
     background-color: aqua;
 }
 .image{
-    border-radius: 50;
-    size-adjust: inherit;
+    border-radius: 100%;
+    width: 200px;
+    height: auto;
+    
 }
+
